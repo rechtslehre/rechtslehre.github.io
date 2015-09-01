@@ -1,0 +1,3 @@
+[submodule "second-person"]
+	path = second-person
+	url = https://github.com/rechtslehre/second-person
