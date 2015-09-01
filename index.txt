@@ -12,12 +12,14 @@ such an approach. But a proper solution will involve developing some
 material on the first person, and a slowly developing literature on the
 second or first-and-second person.
 
+
+
 Some Readings on the 'moral' aspect of the material
 ---------------------------------------------------
 
 ### Joel Feinberg,
 
--   [The Nature and Value of Rights](second-person/feinberg.pdf)
+-   [The Nature and Value of Rights](http://www.pitt.edu/~mthompso/feinberg.pdf)
 
 ### Elizabeth Anscombe,
 
@@ -78,5 +80,13 @@ to be available in the public domain.
 I have extracted the English -- which, as I said, leaves 10 or so Greek
 words in Greek (one would prefer a transliteration, of course) --
 [here](https://docs.google.com/leaf?id=0B-D3GXtdg8rSYzJhOWE2NWUtMjEyZC00YTIyLWJiZTMtMzhkNDYxOTc3NzMz&hl=en)
+
+
+An immense selection of works on associated topics was employed by the 'second person' seminar in Berlin in 2010. I link some of the readings [here](readings.html
+)
+
+
+
+
 
 The whole thing is [here](http://www.archive.org/details/cu31924024496246).
