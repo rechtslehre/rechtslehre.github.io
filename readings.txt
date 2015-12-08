@@ -40,3 +40,7 @@
 -    [Roedl_Sebastian_2007_Self-Consciousness_Ch_VI.pdf](second-person/Roedl_Sebastian_2007_Self-Consciousness_Ch_VI.pdf)
 -    [Roedl_Sebastian_2010_You_and_I.pdf](second-person/Roedl_Sebastian_2010_You_and_I.pdf)
 -    [What_Do_We_Think_With_Geach.pdf](second-person/What_Do_We_Think_With_Geach.pdf)
+
+-    [fichte1.pdf](second-person/fichte1.pdf)
+-    [fichte2.pdf](second-person/fichte2.pdf)
+-    [fichte3.pdf](second-person/fichte3.pdf)
